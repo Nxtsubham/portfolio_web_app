@@ -67,9 +67,9 @@ No `npm install`. No build process. No dependencies.
 
 ## 🌐 Deployment
 
-### Netlify (Recommended — 2 minutes)
+### Netlify
 
-1.'https://69f772ffd627f14e6ce6bff4--melodic-jelly-c40b90.netlify.app/'
+1. https://69f772ffd627f14e6ce6bff4--melodic-jelly-c40b90.netlify.app/
 
 ### GitHub Pages
 
