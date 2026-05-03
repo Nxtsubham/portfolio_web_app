@@ -69,10 +69,7 @@ No `npm install`. No build process. No dependencies.
 
 ### Netlify (Recommended — 2 minutes)
 
-1. Go to [netlify.com](https://netlify.com) and sign in
-2. Drag and drop `index.html` into the deploy zone
-3. Your site is live instantly at `*.netlify.app`
-4. Optionally rename it under **Site settings → Change site name**
+1.'https://69f772ffd627f14e6ce6bff4--melodic-jelly-c40b90.netlify.app/'
 
 ### GitHub Pages
 
